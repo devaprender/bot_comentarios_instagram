@@ -37,4 +37,3 @@ Vou te ensinar tudo isso [neste curso](https://cursodevaprender.getresponsepages
 
 ## Tem sugestões/temas/tópicos/cursos para o canal?
 Estou sempre aberto para sugestões, mande elas para jhonatan@devaprender.com
-)

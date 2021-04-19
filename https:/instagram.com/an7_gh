@@ -8,8 +8,8 @@ import random
 
 class InstagramBot:
     def __init__(self, username, password):
-        self.username = username
-        self.password = password
+        self.username =hhhhhhhhhhaaaakajwhw
+        self.password = 12345566778899
         firefoxProfile = webdriver.FirefoxProfile()
         firefoxProfile.set_preference("intl.accept_languages", "pt,pt-BR")
         firefoxProfile.set_preference("dom.webnotifications.enabled", False)
